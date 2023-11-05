@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "ritML"
+  title: "ML by RIT"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/ritML
+      # - icon: twitter
+      #   href: https://twitter.com
 format:
   html:
     theme:
